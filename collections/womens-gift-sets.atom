@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.fragranceprime.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.fragranceprime.ca/collections/womens-gift-sets.atom"/>
+  <title>FragrancePrime</title>
+  <updated>2020-03-07T15:54:26-05:00</updated>
+  <author>
+    <name>FragrancePrime</name>
+  </author>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/4492430868552</id>
+    <published>2020-03-07T15:54:26-05:00</published>
+    <updated>2020-03-07T15:54:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/wonderstruck-gift-set-women"/>
+    <title>Wonderstruck Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Taylor Swift</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image-coming-soon2_21021c50-f3c0-4ae3-8c01-a55ac5bb2c28.png?v=1614271407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taylor Swift<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            76.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Wonderstruck <span data-mce-fragment="1">Women's </span>Gift Set is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Taylor Swift</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492430868552</id>
+      <title>100ML Edp + 100ML B/L + 100ML S/G</title>
+      <s:price currency="CAD">76.95</s:price>
+      <s:sku>SET-TSWON4796W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/4492429819976</id>
+    <published>2020-03-07T15:53:44-05:00</published>
+    <updated>2020-03-07T15:53:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/prada-candy-florale-gift-set-women"/>
+    <title>Prada Candy Florale Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>PRADA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image-coming-soon2_10356fa2-8add-4e9c-9823-574803149086.png?v=1614309325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PRADA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            66.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Prada Candy Florale <span data-mce-fragment="1">Women </span>Gift Set is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRADA</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492429819976</id>
+      <title>7ML Edt + 9ML Le Femme + 9ML L&apos;Eau La Femme + 8ML Edp Infusion De Iris</title>
+      <s:price currency="CAD">66.95</s:price>
+      <s:sku>SET-PRAMINW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/4492428574792</id>
+    <published>2020-03-07T15:52:46-05:00</published>
+    <updated>2020-03-07T15:52:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/jpg-madame-gift-set-women"/>
+    <title>Jean Paul Gaultier Madame Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>JEAN PAUL GAULTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image-coming-soon2_55218ec3-45b6-4d77-bd2b-28debc92be10.png?v=1614324558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JEAN PAUL GAULTIER<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            76.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Jpg Madame <span data-mce-fragment="1">Women's </span>Gift Set is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JEAN PAUL GAULTIER</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492428574792</id>
+      <title>50ML Edp + 100ML Body Lotion</title>
+      <s:price currency="CAD">76.95</s:price>
+      <s:sku>SET-JPGMAD50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/4492427001928</id>
+    <published>2020-03-07T15:51:37-05:00</published>
+    <updated>2020-03-07T15:51:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/bvlgari-omnia-pink-sapphire-gift-set-women"/>
+    <title>Bvlgari Omnia Pink Sapphire Women Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image-coming-soon2_3aff5b45-f04f-4572-9742-b25d82861a72.png?v=1614362243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            77.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bvlgari Omnia Pink Sapphire <span data-mce-fragment="1">Women's </span>Gift Set is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BVLGARI</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492427001928</id>
+      <title>65ML Edt + 75ML B/L + 100ML S/G</title>
+      <s:price currency="CAD">77.95</s:price>
+      <s:sku>SET-BVLOMNSAP65W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/4492426969160</id>
+    <published>2020-03-07T15:51:34-05:00</published>
+    <updated>2020-03-07T15:51:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/bvlgari-goldea-the-roman-night-gift-set-women"/>
+    <title>Bvlgari Goldea The Roman Night Women Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>BVLGARI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image-coming-soon2_7fa72691-40a3-482a-b1b8-5455df728d7c.png?v=1614363078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BVLGARI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            74.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bvlgari Goldea The Roman Night Women Gift Set is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BVLGARI</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492426969160</id>
+      <title>50ML Edp + 40ML B/L + 40ML S/G</title>
+      <s:price currency="CAD">74.95</s:price>
+      <s:sku>SET-BVLGOLROM50W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/4492426805320</id>
+    <published>2020-03-07T15:51:25-05:00</published>
+    <updated>2020-03-07T15:51:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/burberry-brit-w-gift-set-women"/>
+    <title>Burberry Brit W Women Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image-coming-soon2_66f2cc83-4788-4645-b6bc-277bfeb6c37b.png?v=1614365364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            78.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Burberry Brit W Women Gift Set is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Burberry</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492426805320</id>
+      <title>100ML Edp + 30ML Edp</title>
+      <s:price currency="CAD">78.95</s:price>
+      <s:sku>SET-BURBRI100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/4492425134152</id>
+    <published>2020-03-07T15:49:52-05:00</published>
+    <updated>2020-03-07T15:49:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/versace-eros-women-gift-set"/>
+    <title>Versace Eros Women Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/SET-VERERO6346W_spo_9b0de97c-77da-4aeb-ae10-5754b09095ae.jpg?v=1614273811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            78.95 - 101.95
+            <a href="https://www.fragranceprime.ca/products/versace-eros-women-gift-set">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Versace Eros Women Gift Set is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Versace</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492425134152</id>
+      <title>50ML Edp + 50ML B/L + 50ML S/G</title>
+      <s:price currency="CAD">78.95</s:price>
+      <s:sku>SET-VERERO6346W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492425134152</id>
+      <title>100ML Edp + 10ML Edp + 100ML B/L</title>
+      <s:price currency="CAD">101.95</s:price>
+      <s:sku>SET-VERERO6185W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/4492424708168</id>
+    <published>2020-03-07T15:49:44-05:00</published>
+    <updated>2020-03-07T15:49:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/versace-bright-crystal-gift-set-women"/>
+    <title>Versace Bright Crystal Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Versace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/VERSACE_BRIGHT_CRYSTAL_3PC_SET_50ML_EDT_50ML_SHOWER_GEL_50ML_BODY_LOTION_WOMEN_spo_d93525de-5144-4eb0-a98c-ad82bbef3d94.jpg?v=1614274288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Versace<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            79.95 - 96.95
+            <a href="https://www.fragranceprime.ca/products/versace-bright-crystal-gift-set-women">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Versace Bright Crystal <span data-mce-fragment="1">Women's </span>Gift Set is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Versace</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492424708168</id>
+      <title>50ML Edt + 50ML S/G + 50ML B/L</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>SET-VERBRI1067W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492424708168</id>
+      <title>90ML Edt + 10ML Edt + Cosmetic bag</title>
+      <s:price currency="CAD">96.95</s:price>
+      <s:sku>SET-VERBRI6093W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/4492366839880</id>
+    <published>2020-03-07T15:04:02-05:00</published>
+    <updated>2020-03-07T15:04:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/ch-212-gift-set-women"/>
+    <title>CH 212 Women Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>Carolina Herrera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image-coming-soon2_5bb5c190-cc34-44b4-9e80-d75a40adf91d.png?v=1614360804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carolina Herrera<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">CH 212 Women Gift Set is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Carolina Herrera</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492366839880</id>
+      <title>100Ml EDT + 100Ml Body Lotion</title>
+      <s:price currency="CAD">99.95</s:price>
+      <s:sku>SET-CH2124523W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/4492332204104</id>
+    <published>2020-03-07T14:31:42-05:00</published>
+    <updated>2020-03-07T14:31:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/alien-gift-set-women-1"/>
+    <title>Alien Gift Set For Women</title>
+    <s:type>Women</s:type>
+    <s:vendor>THIERRY MUGLER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/ALIEN-30ML-EDP-2PC-SET-WOMEN.png?v=1614380840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>THIERRY MUGLER<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            67.95 - 92.95
+            <a href="https://www.fragranceprime.ca/products/alien-gift-set-women-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Alien Gift Set For Women is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THIERRY MUGLER</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492332204104</id>
+      <title>30ML EDP 2PC SET</title>
+      <s:price currency="CAD">67.95</s:price>
+      <s:sku>TMALIEN30PWSET</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492332204104</id>
+      <title>60ML EDP + 90ML BODY LOTION</title>
+      <s:price currency="CAD">92.95</s:price>
+      <s:sku>SET-TMALI6495W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

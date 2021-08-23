@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.fragranceprime.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.fragranceprime.ca/collections/mens-gift-sets.atom"/>
+  <title>FragrancePrime</title>
+  <updated>2021-01-16T03:02:29-05:00</updated>
+  <author>
+    <name>FragrancePrime</name>
+  </author>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/4492325945416</id>
+    <published>2021-01-16T03:02:29-05:00</published>
+    <updated>2021-01-16T03:02:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/angel-men-gift-set"/>
+    <title>Angel Men Gift Set For Men</title>
+    <s:type>Men</s:type>
+    <s:vendor>THIERRY MUGLER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/SET-TMAMEN3256M_spo.jpg?v=1614375681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>THIERRY MUGLER<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            80.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Angel Men Gift Set For Men is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>THIERRY MUGLER</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492325945416</id>
+      <title>100ML EDT + 75ML Deo Stick</title>
+      <s:price currency="CAD">80.95</s:price>
+      <s:sku>SET-TMAMEN3256M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/4492419498056</id>
+    <published>2021-01-16T02:44:58-05:00</published>
+    <updated>2021-01-16T02:44:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/acqua-di-gioia-profumo-gift-set-men"/>
+    <title>Acqua Di Gioia Profumo Gift Set For Men</title>
+    <s:type>Men</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/SET-ARMACQPRO8687M_spo_a4799e6e-eff4-42b8-b88b-3dc7a13e5d0d.jpg?v=1614383370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            112.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Acqua Di Gioia Profumo Gift Set For Men is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Giorgio armani</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492419498056</id>
+      <title>75ML EDP + 75ML S/G + 75ML A/S</title>
+      <s:price currency="CAD">112.95</s:price>
+      <s:sku>SET-ARMACQPRO8687M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/4492325716040</id>
+    <published>2021-01-16T02:35:58-05:00</published>
+    <updated>2021-01-16T02:35:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/acqua-di-gio-gift-set-men"/>
+    <title>Acqua Di Gio Men Gift Set</title>
+    <s:type>Men</s:type>
+    <s:vendor>Giorgio armani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image-coming-soon2_55bac2c2-0ca9-4484-b0d5-6437cf711cbd.png?v=1614383496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Giorgio armani<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            80.95 - 122.95
+            <a href="https://www.fragranceprime.ca/products/acqua-di-gio-gift-set-men">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Acqua Di Gio Men Gift Set for Men is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Giorgio armani</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492325716040</id>
+      <title>50ML Edt + 75ML S/G + 75ML A/S Balm</title>
+      <s:price currency="CAD">80.95</s:price>
+      <s:sku>SET-ARMACQ50M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492325716040</id>
+      <title>100ML Edt + 15ML Edt + 75ML S/G</title>
+      <s:price currency="CAD">109.95</s:price>
+      <s:sku>SET-ARMACQ31000M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492325716040</id>
+      <title>100ML Edt + 75ML S/G + 75 A/S Balm</title>
+      <s:price currency="CAD">109.95</s:price>
+      <s:sku>SET-ARMACQ3100M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492325716040</id>
+      <title>100ML EDT + 75ML DEODORANT</title>
+      <s:price currency="CAD">115.95</s:price>
+      <s:sku>SET-ARMACQ1376M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492325716040</id>
+      <title>100ML EDT + 100ML A/S + 100ML S/G + 75ML DEO</title>
+      <s:price currency="CAD">118.95</s:price>
+      <s:sku>SET-ARMACQ1004M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492325716040</id>
+      <title>100Ml Edt + 30Ml Edt</title>
+      <s:price currency="CAD">122.95</s:price>
+      <s:sku>SET-ARMACQ4923M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/4492329615432</id>
+    <published>2020-03-07T14:29:31-05:00</published>
+    <updated>2020-03-07T14:29:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/gucci-flora-gardenia"/>
+    <title>Gucci Flora Gardenia</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/GUCCI-FLORA-GARDENIA-30ML-EDT-WOMEN.jpg?v=1614333755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            59.95 - 74.95
+            <a href="https://www.fragranceprime.ca/products/gucci-flora-gardenia">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gucci Flora Gardenia Women's perfume is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A<br data-mce-fragment="1"><br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GUCCI</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492329615432</id>
+      <title>30ML EDT</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>GUCFLOGAR30TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492329615432</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">74.95</s:price>
+      <s:sku>GUCFLOGAR50TW</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/4492322799688</id>
+    <published>2020-03-07T14:23:08-05:00</published>
+    <updated>2020-03-07T14:23:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/dkny-be-delicious-coffret-gift-set-women"/>
+    <title>DKNY Be Delicious Coffret 4PC Gift Set</title>
+    <s:type>Women</s:type>
+    <s:vendor>DONNA KAREN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/71T-bThjlUL._SL1500_grande_cac60555-3804-4cec-ac79-7cd78bbb9acf_spo.jpg?v=1614345038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DONNA KAREN<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            68.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">DKNY Be Delicious Coffret 4PC Gift Set Women's perfume is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A<br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DONNA KAREN</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/4492322799688</id>
+      <title>Be Delicious 5ML + Fresh Blossom 5ML + Golden Delicious 5ML + Red Delicous 5ML</title>
+      <s:price currency="CAD">68.95</s:price>
+      <s:sku>SET-DKNYMIN7017W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

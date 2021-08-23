@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.fragranceprime.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.fragranceprime.ca/collections/best-sellers.atom"/>
+  <title>FragrancePrime</title>
+  <updated>2021-07-09T06:54:03-04:00</updated>
+  <author>
+    <name>FragrancePrime</name>
+  </author>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876484272280</id>
+    <published>2021-07-09T06:54:03-04:00</published>
+    <updated>2021-07-09T06:54:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/jimmy-choo-illicit-flower-edt"/>
+    <title>Jimmy Choo Illicit Flower Edt</title>
+    <s:type>Women</s:type>
+    <s:vendor>JIMMY CHOO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Jimmy-Choo-Illicit-Flower-Edt.png?v=1625851477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JIMMY CHOO<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            50.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JIMMY CHOO</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876484272280</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">50.25</s:price>
+      <s:sku>JCHILLFLO100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876481159320</id>
+    <published>2021-07-09T06:51:33-04:00</published>
+    <updated>2021-07-09T06:51:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/jean-paul-gaultier-la-belle-intense"/>
+    <title>Jean Paul Gaultier La Belle Intense</title>
+    <s:type>Women</s:type>
+    <s:vendor>JEAN PAUL GAULTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Jean-Paul-Gaultier-La-Belle-Intense.png?v=1625851471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JEAN PAUL GAULTIER<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            78.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JEAN PAUL GAULTIER</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876481159320</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">78.95</s:price>
+      <s:sku>TESJPGBELINT100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876480929944</id>
+    <published>2021-07-09T06:51:14-04:00</published>
+    <updated>2021-07-09T06:51:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/gucci-guilty-love-edition-edp"/>
+    <title>Gucci Guilty Love Edition Edp</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Gucci-Guilty-Love-Edition-Edp.png?v=1625851470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GUCCI</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876480929944</id>
+      <title>90ML EDP TESTER</title>
+      <s:price currency="CAD">94.95</s:price>
+      <s:sku>TESGUCGUILOV90W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876480635032</id>
+    <published>2021-07-09T06:50:33-04:00</published>
+    <updated>2021-07-09T06:50:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/d-g-dolce-rose"/>
+    <title>D&amp;G Dolce Rose</title>
+    <s:type>Women</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/D_G-Dolce-Rose.png?v=1625851470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DOLCE GABBANA</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876480635032</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">94.95</s:price>
+      <s:sku>DGDOLROS75TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876480569496</id>
+    <published>2021-07-09T06:50:28-04:00</published>
+    <updated>2021-07-09T06:50:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/gucci-guilty-love-edition"/>
+    <title>Gucci Guilty Love Edition</title>
+    <s:type>Men</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/51zrxRqjPJL._SL1000.jpg?v=1625851470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GUCCI</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876480569496</id>
+      <title>90ML EDT TESTER</title>
+      <s:price currency="CAD">94.95</s:price>
+      <s:sku>TESGUCGUILOV90M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876480045208</id>
+    <published>2021-07-09T06:49:51-04:00</published>
+    <updated>2021-07-09T06:49:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/jimmy-choo-i-want-choo"/>
+    <title>Jimmy Choo I Want Choo</title>
+    <s:type>Women</s:type>
+    <s:vendor>JIMMY CHOO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Jimmy-Choo-I-Want-Choo.png?v=1625851468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JIMMY CHOO<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            127.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JIMMY CHOO</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876480045208</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">127.95</s:price>
+      <s:sku>JCHIWAN100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876478996632</id>
+    <published>2021-07-09T06:48:40-04:00</published>
+    <updated>2021-07-09T06:48:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/d-g-the-one-platinum-edition-2014"/>
+    <title>D&amp;G The One Platinum Edition 2014</title>
+    <s:type>Men</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/D_G-The-One-Platinum-Edition-2014.png?v=1627478367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DOLCE GABBANA</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876478996632</id>
+      <title>50ML EDT TESTER</title>
+      <s:price currency="CAD">64.95</s:price>
+      <s:sku>TESDGONEPLA50M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6183058014360</id>
+    <published>2020-12-30T12:42:15-05:00</published>
+    <updated>2020-12-30T12:42:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/montale-dew-musk"/>
+    <title>Montale Dew Musk</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>MONTALE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/MONTALE-DEW-MUSK-50ML-EDP-UNISEX.png?v=1613152283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MONTALE<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            82.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Montale Dew Musk Men’s Cologne is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MONTALE</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183058014360</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">82.95</s:price>
+      <s:sku>MONDEWMUS50U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6183048872088</id>
+    <published>2020-12-30T12:36:20-05:00</published>
+    <updated>2020-12-30T12:36:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/jpg-le-beau-male-intensely-fresh"/>
+    <title>Jean Paul Gaultier Le Beau</title>
+    <s:type>Men</s:type>
+    <s:vendor>JEAN PAUL GAULTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/LeBeauIntenselyFresh.jpg?v=1614324801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JEAN PAUL GAULTIER<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            51.95 - 64.95
+            <a href="https://www.fragranceprime.ca/products/jpg-le-beau-male-intensely-fresh">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Jean Paul Gaultier Le Beau Men’s Cologne is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JEAN PAUL GAULTIER</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183048872088</id>
+      <title>75 ML EDT</title>
+      <s:price currency="CAD">51.95</s:price>
+      <s:sku>JPGBLU75TM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183048872088</id>
+      <title>125ML EDT TESTER</title>
+      <s:price currency="CAD">64.95</s:price>
+      <s:sku>TESJPGINTFRE125M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6183048642712</id>
+    <published>2020-12-30T12:36:09-05:00</published>
+    <updated>2020-12-30T12:36:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/jean-paul-gaultier-le-male-parfum"/>
+    <title>Jean Paul Gaultier Le Male Parfum</title>
+    <s:type>Men</s:type>
+    <s:vendor>JEAN PAUL GAULTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Jean-Paul-Gaultier-Le-Male-Le-Parfum.jpg?v=1614324685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JEAN PAUL GAULTIER<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            101.95 - 149.95
+            <a href="https://www.fragranceprime.ca/products/jean-paul-gaultier-le-male-parfum">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Jean Paul Gaultier Le Male Parfum Men’s Cologne is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JEAN PAUL GAULTIER</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183048642712</id>
+      <title>125ML EDP</title>
+      <s:price currency="CAD">101.95</s:price>
+      <s:sku>JPG125PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183048642712</id>
+      <title>200ML EDP</title>
+      <s:price currency="CAD">149.95</s:price>
+      <s:sku>JPGLEPAR200PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6183043104920</id>
+    <published>2020-12-30T12:31:52-05:00</published>
+    <updated>2020-12-30T12:31:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/gucci-bamboo-limited-edition"/>
+    <title>Gucci Bamboo Limited Edition</title>
+    <s:type>Women</s:type>
+    <s:vendor>GUCCI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Coming-Soon_6cd12311-1afe-4f00-a0b5-67adb4e293a6.png?v=1614333987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GUCCI<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            58.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gucci Bamboo Limited Edition Women's perfume is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GUCCI</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183043104920</id>
+      <title>50ML EDP TESTER</title>
+      <s:price currency="CAD">58.95</s:price>
+      <s:sku>TESGUCBAMLE50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6183036616856</id>
+    <published>2020-12-30T12:27:24-05:00</published>
+    <updated>2020-12-30T12:27:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/dolce-gabbana-velvet-sicily"/>
+    <title>Dolce &amp; Gabbana Velvet Sicily</title>
+    <s:type>Women</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Coming-Soon_e4fb277c-cc04-402f-9574-44cc89612b9c.png?v=1614352465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            154.95 - 285.95
+            <a href="https://www.fragranceprime.ca/products/dolce-gabbana-velvet-sicily">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dolce &amp; Gabbana Velvet Sicily Women's perfume is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DOLCE GABBANA</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183036616856</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">154.95</s:price>
+      <s:sku>DGVELSIC50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183036616856</id>
+      <title>150ML EDP</title>
+      <s:price currency="CAD">285.95</s:price>
+      <s:sku>DGVELSIC150W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6183036518552</id>
+    <published>2020-12-30T12:27:19-05:00</published>
+    <updated>2020-12-30T12:27:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/dolce-gabbana-velvet-mimosa-bloom-pour-femme"/>
+    <title>Dolce &amp; Gabbana Velvet Mimosa Bloom Pour Femme</title>
+    <s:type>Women</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Coming-Soon_2ff71c28-36d8-41f3-bdef-140cafccc63c.png?v=1614344305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            129.95 - 209.95
+            <a href="https://www.fragranceprime.ca/products/dolce-gabbana-velvet-mimosa-bloom-pour-femme">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dolce &amp; Gabbana Velvet Mimosa Bloom Pour Femme Women's perfume is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DOLCE GABBANA</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183036518552</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">129.95</s:price>
+      <s:sku>DGVELMIMBLO50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183036518552</id>
+      <title>150ML EDP</title>
+      <s:price currency="CAD">209.95</s:price>
+      <s:sku>DGVELMIMBLO150W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6183036420248</id>
+    <published>2020-12-30T12:27:14-05:00</published>
+    <updated>2020-12-30T12:27:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/dolce-gabbana-velvet-mimosa-bloom-edp"/>
+    <title>Dolce &amp; Gabbana Velvet Mimosa Bloom Edp</title>
+    <s:type>Men</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Coming-Soon_73809f78-ca6c-4883-9685-402b384a61d8.png?v=1614344305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            91.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dolce &amp; Gabbana Velvet Mimosa Bloom Edp Men’s Cologne is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DOLCE GABBANA</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183036420248</id>
+      <title>50ML EDP TESTER</title>
+      <s:price currency="CAD">91.95</s:price>
+      <s:sku>TESDGVELMIMBLO50M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6183036321944</id>
+    <published>2020-12-30T12:27:10-05:00</published>
+    <updated>2020-12-30T12:27:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/dolce-gabbana-velvet-love"/>
+    <title>Dolce &amp; Gabbana Velvet Love</title>
+    <s:type>Women</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Coming-Soon_50229537-44c8-4931-b985-15e7704c0c2b.png?v=1614344305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            199.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dolce &amp; Gabbana Velvet Love Women's perfume is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DOLCE GABBANA</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183036321944</id>
+      <title>150ML EDP</title>
+      <s:price currency="CAD">199.95</s:price>
+      <s:sku>DGVELLOV150W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6183036223640</id>
+    <published>2020-12-30T12:27:06-05:00</published>
+    <updated>2020-12-30T12:27:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/dolce-gabbana-velvet-ginestra"/>
+    <title>Dolce &amp; Gabbana Velvet Ginestra</title>
+    <s:type>Women</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Coming-Soon_ba93e8d7-0f38-4c9d-a6d7-61f6a210f3df.png?v=1614344305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            101.95 - 194.95
+            <a href="https://www.fragranceprime.ca/products/dolce-gabbana-velvet-ginestra">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dolce &amp; Gabbana Velvet Ginestra Women's perfume is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DOLCE GABBANA</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183036223640</id>
+      <title>50ML EDP TESTER</title>
+      <s:price currency="CAD">101.95</s:price>
+      <s:sku>TESDGVELGIN50W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183036223640</id>
+      <title>150ML EDP</title>
+      <s:price currency="CAD">194.95</s:price>
+      <s:sku>DGVELGIN150W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6183036125336</id>
+    <published>2020-12-30T12:26:59-05:00</published>
+    <updated>2020-12-30T12:26:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/dolce-gabbana-velvet-exotic-leather-pour-homme"/>
+    <title>Dolce &amp; Gabbana Velvet Exotic Leather Pour Homme</title>
+    <s:type>Men</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Coming-Soon_86860c7b-cb70-4b06-8dc8-30b998c44165.png?v=1614344306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            165.75 - 249.95
+            <a href="https://www.fragranceprime.ca/products/dolce-gabbana-velvet-exotic-leather-pour-homme">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dolce &amp; Gabbana Velvet Exotic Leather Pour Homme Men’s Cologne is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DOLCE GABBANA</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183036125336</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">165.75</s:price>
+      <s:sku>DGVELEXOLEA50M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183036125336</id>
+      <title>150ML EDP</title>
+      <s:price currency="CAD">249.95</s:price>
+      <s:sku>DGVELEXOLEA150PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6183035895960</id>
+    <published>2020-12-30T12:26:48-05:00</published>
+    <updated>2020-12-30T12:26:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/dolce-gabbana-king-edp"/>
+    <title>Dolce &amp; Gabbana King Edp</title>
+    <s:type>Men</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/dg-king-edp.png?v=1614344552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            79.95 - 140.95
+            <a href="https://www.fragranceprime.ca/products/dolce-gabbana-king-edp">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dolce &amp; Gabbana King Edp Men's cologne is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A<br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DOLCE GABBANA</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183035895960</id>
+      <title>50ML EDP</title>
+      <s:price currency="CAD">81.95</s:price>
+      <s:sku>DGKIN50PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183035895960</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">79.95</s:price>
+      <s:sku>TESDGKINPM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183035895960</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">95.45</s:price>
+      <s:sku>DGKIN100PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183035895960</id>
+      <title>150ML EDP</title>
+      <s:price currency="CAD">140.95</s:price>
+      <s:sku>DGKIN150PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6183034486936</id>
+    <published>2020-12-30T12:25:46-05:00</published>
+    <updated>2020-12-30T12:25:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/dg-light-blue-italian-zest"/>
+    <title>Dg Light Blue Italian Zest</title>
+    <s:type>Men</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Coming-Soon_74d45f35-1917-4ca0-bda8-3b78094a1fe2.png?v=1614348750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            56.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dg Light Blue Italian Zest Men’s Cologne is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DOLCE GABBANA</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183034486936</id>
+      <title>75ML EDT</title>
+      <s:price currency="CAD">56.95</s:price>
+      <s:sku>DGLIGITAZES75M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6183034355864</id>
+    <published>2020-12-30T12:25:38-05:00</published>
+    <updated>2020-12-30T12:25:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/d-g-dolce-shine"/>
+    <title>D&amp;G Dolce Shine</title>
+    <s:type>Women</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/D_G-DOLCE-SHINE-75ML-EDP-WOMEN.png?v=1614350424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            72.95 - 82.95
+            <a href="https://www.fragranceprime.ca/products/d-g-dolce-shine">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">D&amp;G Dolce Shine Women's perfume is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A<br data-mce-fragment="1"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DOLCE GABBANA</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183034355864</id>
+      <title>75ML EDP TESTER</title>
+      <s:price currency="CAD">72.95</s:price>
+      <s:sku>TESDGDOLSHI75W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6183034355864</id>
+      <title>75ML EDP</title>
+      <s:price currency="CAD">82.95</s:price>
+      <s:sku>DGDOLSHI75W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/5937068114072</id>
+    <published>2020-10-14T12:09:11-04:00</published>
+    <updated>2020-10-14T12:09:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/montale-pure-love"/>
+    <title>Montale Pure Love</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>MONTALE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Coming-Soon_54e61f44-29f7-4f44-afc9-b09b2fc0cdc8.png?v=1614305718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MONTALE<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            106.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Montale Pure Love Unisex perfume is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MONTALE</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/5937068114072</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">106.95</s:price>
+      <s:sku>MONPURLOV100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/5937056940184</id>
+    <published>2020-10-14T12:07:56-04:00</published>
+    <updated>2020-10-14T12:07:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/montale-chocolate-greedy"/>
+    <title>Montale Chocolate Greedy</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>MONTALE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Coming-Soon_b960169f-4776-49eb-b936-0e4c32f3e484.png?v=1614306565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MONTALE<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            89.95 - 97.95
+            <a href="https://www.fragranceprime.ca/products/montale-chocolate-greedy">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Montale Chocolate Greedy Unisex perfume is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MONTALE</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/5937056940184</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">97.95</s:price>
+      <s:sku>MONCHOGRE100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/5937056940184</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">89.95</s:price>
+      <s:sku>TESMONCHOGRE100U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/5937056350360</id>
+    <published>2020-10-14T12:07:52-04:00</published>
+    <updated>2020-10-14T12:07:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/mancera-wild-wood"/>
+    <title>Mancera Wild Wood</title>
+    <s:type>UNISEX</s:type>
+    <s:vendor>MANCERA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Coming-Soon_2038c286-634f-444d-bf23-c9d84230c08b.png?v=1614318445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MANCERA<br>
+        <strong>Type: </strong>UNISEX<br>
+        <strong>Price: </strong>
+            103.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Mancera Wild Wood Unisex perfume is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MANCERA</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/5937056350360</id>
+      <title>120ML EDP</title>
+      <s:price currency="CAD">103.95</s:price>
+      <s:sku>MANWILWOO120U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/5937029578904</id>
+    <published>2020-10-14T12:04:31-04:00</published>
+    <updated>2020-10-14T12:04:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/classique-airlines"/>
+    <title>Classique Airlines Eau Fraiche</title>
+    <s:type>Women</s:type>
+    <s:vendor>JEAN PAUL GAULTIER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Classique-Airlines.png?v=1618593966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JEAN PAUL GAULTIER<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            59.95 - 67.95
+            <a href="https://www.fragranceprime.ca/products/classique-airlines">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JEAN PAUL GAULTIER</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/5937029578904</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">67.95</s:price>
+      <s:sku>JPGAIR50TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/5937029578904</id>
+      <title>50ML EDT TESTER</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku>TESJPGAIR50TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/5937006379160</id>
+    <published>2020-10-14T12:01:20-04:00</published>
+    <updated>2020-10-14T12:01:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/d-g-light-blue-love-edt"/>
+    <title>D&amp;G Light Blue Love Is Love Edt</title>
+    <s:type>Women</s:type>
+    <s:vendor>DOLCE GABBANA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Coming-Soon_0e4e996d-952a-494e-9ede-d86a2e34291f.png?v=1614350187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DOLCE GABBANA<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            58.95 - 61.95
+            <a href="https://www.fragranceprime.ca/products/d-g-light-blue-love-edt">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">D&amp;G Light Blue Love Is Love Edt Women's perfume is available at the best price on FragrancePrime. We ship to Canada &amp; the U.S.A</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DOLCE GABBANA</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/5937006379160</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">58.95</s:price>
+      <s:sku>DGLIGLOV100TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/5937006379160</id>
+      <title>50ML EDT</title>
+      <s:price currency="CAD">61.95</s:price>
+      <s:sku>DGLIGLOV50TW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

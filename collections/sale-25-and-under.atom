@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.fragranceprime.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.fragranceprime.ca/collections/sale-25-and-under.atom"/>
+  <title>FragrancePrime</title>
+  <updated>2021-07-09T06:58:08-04:00</updated>
+  <author>
+    <name>FragrancePrime</name>
+  </author>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876488892568</id>
+    <published>2021-07-09T06:58:08-04:00</published>
+    <updated>2021-07-09T06:58:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-story-of-new-brand-white"/>
+    <title>New Brand Story Of New Brand White</title>
+    <s:type>Men</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_5fe7446e-7c76-4022-a312-5aa26b691457.png?v=1625851487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            14.95 - 15.95
+            <a href="https://www.fragranceprime.ca/products/new-brand-story-of-new-brand-white">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876488892568</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>NBSTOR100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876488892568</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>TESNBSTOR100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876488794264</id>
+    <published>2021-07-09T06:58:03-04:00</published>
+    <updated>2021-07-09T06:58:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-volcano"/>
+    <title>New Brand Volcano</title>
+    <s:type>Men</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_41e649d9-e8b6-4b0b-a556-12c356f3f579.png?v=1627479997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            9.95 - 10.95
+            <a href="https://www.fragranceprime.ca/products/new-brand-volcano">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876488794264</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku>NBVOL100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876488794264</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>TESNBVOL100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876488761496</id>
+    <published>2021-07-09T06:57:59-04:00</published>
+    <updated>2021-07-09T06:57:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-unic"/>
+    <title>New Brand Unic</title>
+    <s:type>Men</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_275aa2cd-bbca-4e37-b05d-988e2b4646f8.png?v=1627032495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            9.95 - 10.95
+            <a href="https://www.fragranceprime.ca/products/new-brand-unic">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876488761496</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku>NBUNI100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876488761496</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>TESNBUNI100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876488597656</id>
+    <published>2021-07-09T06:57:51-04:00</published>
+    <updated>2021-07-09T06:57:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-together-night"/>
+    <title>New Brand Together Night</title>
+    <s:type>Women</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_38af30b4-cf2d-41fb-a393-e10fb1203985.png?v=1625851486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            14.95 - 16.95
+            <a href="https://www.fragranceprime.ca/products/new-brand-together-night">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876488597656</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>TESNBTOG100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876488597656</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>NBTOG100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876488532120</id>
+    <published>2021-07-09T06:57:48-04:00</published>
+    <updated>2021-07-09T06:57:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-the-new-brand"/>
+    <title>New Brand The New Brand</title>
+    <s:type>Men</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_8d762b09-6272-484b-b53d-1b6445ca64ed.png?v=1625851486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            14.95 - 16.95
+            <a href="https://www.fragranceprime.ca/products/new-brand-the-new-brand">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876488532120</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>NBTHENEW100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876488532120</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>TESNBTHENEW100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876488368280</id>
+    <published>2021-07-09T06:57:42-04:00</published>
+    <updated>2021-07-09T06:57:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-style"/>
+    <title>New Brand Style</title>
+    <s:type>Women</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_2d6e42b6-408a-4bdc-a6b5-0794a1b99295.png?v=1627025720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            14.95 - 16.95
+            <a href="https://www.fragranceprime.ca/products/new-brand-style">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876488368280</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>TESNBSTY100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876488368280</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>NBSTY100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876488269976</id>
+    <published>2021-07-09T06:57:38-04:00</published>
+    <updated>2021-07-09T06:57:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-silence"/>
+    <title>New Brand Silence</title>
+    <s:type>Women</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_0cfa22ee-0866-4649-b726-8026934a64bb.png?v=1625851486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            14.95 - 16.95
+            <a href="https://www.fragranceprime.ca/products/new-brand-silence">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876488269976</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>TESNBSIL100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876488269976</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>NBSIL100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876488237208</id>
+    <published>2021-07-09T06:57:34-04:00</published>
+    <updated>2021-07-09T06:57:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-princess-dreaming"/>
+    <title>New Brand Princess Dreaming</title>
+    <s:type>Women</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_ab0c24e6-a9bf-45d1-8c55-7524f456a303.png?v=1627479997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            8.25 - 10.95
+            <a href="https://www.fragranceprime.ca/products/new-brand-princess-dreaming">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876488237208</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">8.25</s:price>
+      <s:sku>TESNBPRIDRE100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876488237208</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku>NBPRIDRE100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876488138904</id>
+    <published>2021-07-09T06:57:29-04:00</published>
+    <updated>2021-07-09T06:57:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-seduction-edp"/>
+    <title>New Brand Seduction Edp</title>
+    <s:type>Women</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_aefd763d-5ee2-4725-96e6-0ae59d2442d6.png?v=1627031250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            8.25 - 9.25
+            <a href="https://www.fragranceprime.ca/products/new-brand-seduction-edp">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876488138904</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">8.25</s:price>
+      <s:sku>TESNBSED100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876488138904</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>NBSED100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876488040600</id>
+    <published>2021-07-09T06:57:24-04:00</published>
+    <updated>2021-07-09T06:57:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-my-brand"/>
+    <title>New Brand My Brand</title>
+    <s:type>Women</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_a6725c08-9d3f-4177-b599-2f4108e42714.png?v=1625851485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            14.95 - 16.95
+            <a href="https://www.fragranceprime.ca/products/new-brand-my-brand">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876488040600</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>TESNBMYBRA100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876488040600</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>NBMYBRA100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876488007832</id>
+    <published>2021-07-09T06:57:21-04:00</published>
+    <updated>2021-07-09T06:57:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-prestige-extasia"/>
+    <title>New Brand Prestige Extasia</title>
+    <s:type>Women</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_93716cc1-7ff6-4f20-90ed-5673c01c1981.png?v=1627017929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            14.95 - 16.95
+            <a href="https://www.fragranceprime.ca/products/new-brand-prestige-extasia">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876488007832</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>TESNBEXT100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876488007832</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>NBEXT100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876487909528</id>
+    <published>2021-07-09T06:57:16-04:00</published>
+    <updated>2021-07-09T06:57:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-prestige-extasia-black"/>
+    <title>New Brand Prestige Extasia Black</title>
+    <s:type>Men</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_7dad66b3-671c-4b5e-b4da-86db2f88aefd.png?v=1627479997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            13.95 - 14.95
+            <a href="https://www.fragranceprime.ca/products/new-brand-prestige-extasia-black">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487909528</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>NBEXT100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487909528</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>TESNBEXT100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876487876760</id>
+    <published>2021-07-09T06:57:13-04:00</published>
+    <updated>2021-07-09T06:57:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-sensual"/>
+    <title>New Brand Sensual</title>
+    <s:type>Women</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_2ee2e91b-cab1-44bd-ae66-27483d8831bd.png?v=1627478022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            8.45 - 10.95
+            <a href="https://www.fragranceprime.ca/products/new-brand-sensual">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487876760</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">8.45</s:price>
+      <s:sku>TESNBSEN100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487876760</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku>NBSEN100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876487811224</id>
+    <published>2021-07-09T06:57:08-04:00</published>
+    <updated>2021-07-09T06:57:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-phantom"/>
+    <title>New Brand Phantom</title>
+    <s:type>Women</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_d1a4cecc-42f2-4d20-8e02-165a20993dea.png?v=1627028564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            14.95 - 16.95
+            <a href="https://www.fragranceprime.ca/products/new-brand-phantom">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487811224</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>TESNBPHA100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487811224</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>NBPHA100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876487778456</id>
+    <published>2021-07-09T06:57:05-04:00</published>
+    <updated>2021-07-09T06:57:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-parfum-de-nuit"/>
+    <title>New Brand Parfum De Nuit</title>
+    <s:type>Women</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_48165cd3-5b2a-4c42-96ac-bc15759c1fa6.png?v=1627028565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            14.95 - 16.95
+            <a href="https://www.fragranceprime.ca/products/new-brand-parfum-de-nuit">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487778456</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>TESNBPARDE100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487778456</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>NBPARDE100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876487745688</id>
+    <published>2021-07-09T06:57:01-04:00</published>
+    <updated>2021-07-09T06:57:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-mysterious-girl"/>
+    <title>New Brand Mysterious Girl</title>
+    <s:type>Women</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_50c79eaa-7d5c-4277-af87-43468d380263.png?v=1627017929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            14.95 - 16.95
+            <a href="https://www.fragranceprime.ca/products/new-brand-mysterious-girl">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487745688</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>TESNBMYSGIR100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487745688</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>NBMYSGIR100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876487680152</id>
+    <published>2021-07-09T06:56:57-04:00</published>
+    <updated>2021-07-09T06:56:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-ice"/>
+    <title>New Brand Ice</title>
+    <s:type>Men</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_11d7c265-ec06-417b-9bbd-3795170524f5.png?v=1627017927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            13.45 - 15.95
+            <a href="https://www.fragranceprime.ca/products/new-brand-ice">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487680152</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>NBICE100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487680152</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">13.45</s:price>
+      <s:sku>TESNBICE100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876487581848</id>
+    <published>2021-07-09T06:56:46-04:00</published>
+    <updated>2021-07-09T06:56:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-l-or"/>
+    <title>New Brand L Or</title>
+    <s:type>Women</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_81eb251f-67e4-49c0-af41-c7e0ac89cdb0.png?v=1625851483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            13.95 - 15.95
+            <a href="https://www.fragranceprime.ca/products/new-brand-l-or">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487581848</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>TESNBLOR100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487581848</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>NBLOR100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876487549080</id>
+    <published>2021-07-09T06:56:42-04:00</published>
+    <updated>2021-07-09T06:56:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-french-cancan"/>
+    <title>New Brand French Cancan</title>
+    <s:type>Women</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_7c35b6d6-8baa-4b15-bf02-0e2cbfea67f3.png?v=1627030030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            6.45 - 9.95
+            <a href="https://www.fragranceprime.ca/products/new-brand-french-cancan">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487549080</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">6.45</s:price>
+      <s:sku>TESNBFRECAN100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487549080</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>NBFRECAN100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876487385240</id>
+    <published>2021-07-09T06:56:35-04:00</published>
+    <updated>2021-07-09T06:56:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/cuba-jungle-snake"/>
+    <title>Cuba Jungle Snake</title>
+    <s:type>Women</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_3dbc6a69-6835-406c-838a-634259396d31.png?v=1625851483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487385240</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>CUBJUNSNA100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876487221400</id>
+    <published>2021-07-09T06:56:29-04:00</published>
+    <updated>2021-07-09T06:56:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-gt"/>
+    <title>New Brand Gt</title>
+    <s:type>Men</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_1fa9d3e2-16b2-40aa-8208-eedbb6a60833.png?v=1627479999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            8.95 - 10.25
+            <a href="https://www.fragranceprime.ca/products/new-brand-gt">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487221400</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">10.25</s:price>
+      <s:sku>NBGT100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487221400</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>TESNBGT100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876487123096</id>
+    <published>2021-07-09T06:56:24-04:00</published>
+    <updated>2021-07-09T06:56:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-ego-gold"/>
+    <title>New Brand Ego Gold</title>
+    <s:type>Men</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_73a47fad-991e-4054-aee5-85ff8557cb9f.png?v=1627029243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Men<br>
+        <strong>Price: </strong>
+            14.95 - 16.95
+            <a href="https://www.fragranceprime.ca/products/new-brand-ego-gold">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487123096</id>
+      <title>100ML EDT</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>NBEGO100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487123096</id>
+      <title>100ML EDT TESTER</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>TESNBEGO100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876487090328</id>
+    <published>2021-07-09T06:56:21-04:00</published>
+    <updated>2021-07-09T06:56:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-dani"/>
+    <title>New Brand Dani</title>
+    <s:type>Women</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_965d3e87-a208-4d10-a797-0f80b64b19cb.png?v=1625851483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            15.45 - 16.95
+            <a href="https://www.fragranceprime.ca/products/new-brand-dani">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487090328</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">15.45</s:price>
+      <s:sku>TESNBDAN100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487090328</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>NBDAN100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876487024792</id>
+    <published>2021-07-09T06:56:18-04:00</published>
+    <updated>2021-07-09T06:56:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-delicious"/>
+    <title>New Brand Delicious</title>
+    <s:type>Women</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_ad4fdf54-f288-4d45-a912-273069a9d042.png?v=1625851483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            15.45 - 16.95
+            <a href="https://www.fragranceprime.ca/products/new-brand-delicious">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487024792</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">15.45</s:price>
+      <s:sku>TESNBDEL100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876487024792</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku>NBDEL100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.fragranceprime.ca/products/6876486992024</id>
+    <published>2021-07-09T06:56:15-04:00</published>
+    <updated>2021-07-09T06:56:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.fragranceprime.ca/products/new-brand-forever"/>
+    <title>New Brand Forever</title>
+    <s:type>Women</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0796/9485/products/Image_Coming_Soon_d6f73c80-499d-43ff-8c98-95de781854cc.png?v=1627025720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Women<br>
+        <strong>Price: </strong>
+            13.95 - 15.95
+            <a href="https://www.fragranceprime.ca/products/new-brand-forever">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Brand</s:tag>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876486992024</id>
+      <title>100ML EDP TESTER</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>TESNBFOR100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.fragranceprime.ca/products/6876486992024</id>
+      <title>100ML EDP</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku>NBFOR100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
